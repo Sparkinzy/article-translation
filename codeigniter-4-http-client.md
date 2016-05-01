@@ -6,7 +6,7 @@ CodeIgniter 4 HTTP 连接
 
 It used to be that the majority of the websites were silos, not communicating with other websites much at all. That has changed a lot in the last few years, though, to the point where many sites consume information from external APIs, or communicate with third-party services, like payment gateways, social networks, and more, all on a day-to-day basis. For PHP developers, this typically involves the use of curl to make this happen. That means that any full-stack framework should provide some form of capabilities to help you out there. In the upcoming CodeIgniter 4, we've provided a lightweight, yet still very flexible, HTTP client built-in.
 
-大多数网站都是独立的,与其他网站沟通较少.但是最近几年改变很大.但是,这些信息都是同过API接口调用.或者与第三方服务交互,类似支付,社交等,每天都有不同的接口.对于php开发者,这些调用通常使用CURL.这意味着开发者在框架中需要一种功能模块来实现,帮助开发(Tips:自己封装也可以).在新版的CodeIgniter 4,我们将提供一个轻量级,且灵活的HTTP内置连接(库).
+大多数网站都是独立的,与其他网站沟通较少.在最近几年改变很大.但是这些信息都是同过API接口调用.或者与第三方服务交互,类似支付,社交等,每天都有不同的接口.对于php开发者,这些调用通常使用CURL.这意味着开发者在框架中需要一种功能模块来实现,帮助开发(Tips:自己封装也可以).在新版的CodeIgniter 4,我们将提供一个轻量级,且灵活的HTTP内置连接(库).
 
 ## The CURLRequest Class
 
