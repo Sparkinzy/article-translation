@@ -1,6 +1,6 @@
 CodeIgniter4 is a rewrite of the framework, using PHP7, with substantial changes and improvements. It is not intended to be backwards-compatible with CodeIgniter3, though we are shooting to ease the pain of transition, where possible.
 
-CodeIgniter 4 has reached milestone 1, following our [development roadma](codeigniter-4-proposed-roadmap.md)! Phase 1 has been completed, and we are embarking on Phase 2.
+CodeIgniter 4 has reached milestone 1, following our [development roadmap](codeigniter-4-proposed-roadmap.md)! Phase 1 has been completed, and we are embarking on Phase 2.
 
 The first phase has seen the core re-implemented, with a number of essential components: 
 
