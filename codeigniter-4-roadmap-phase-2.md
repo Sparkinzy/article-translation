@@ -1,3 +1,7 @@
+# CodeIgniter 4 路线图 - 第二阶段
+
+> 原文: [CodeIgniter4 Roadmap - Phase 2](http://forum.codeigniter.com/thread-65543.html)
+
 CodeIgniter4 is a rewrite of the framework, using PHP7, with substantial changes and improvements. It is not intended to be backwards-compatible with CodeIgniter3, though we are shooting to ease the pain of transition, where possible.
 
 CodeIgniter 4 has reached milestone 1, following our [development roadmap](codeigniter-4-proposed-roadmap.md)! Phase 1 has been completed, and we are embarking on Phase 2.
