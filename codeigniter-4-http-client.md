@@ -117,20 +117,19 @@ The library supports a wide array of options, allowing you to work with nearly a
 *   and more.
 
 
-*设置基本的HTTP请求或身份认证
-*设置复杂的认证，如的头文件（或者其他需要）
-*指定PEM格式的证书的位置，
-*限制执行时间
-*允许重定向，
-*返回错误报告
-*JSON格式上传
-*发送请求字符串或POST变量
-*检验SSL证书有无（辅助服务商检测SSL证书使用）
-* 和更多。
+*   设置基本的HTTP请求或身份认证
+*   设置复杂的认证，如的头文件（或者其他需要）
+*   指定PEM格式的证书的位置，
+*   限制执行时间
+*   允许重定向，
+*   返回错误报告
+*   JSON格式上传
+*   发送请求字符串或POST变量
+*   检验SSL证书有无（辅助服务商检测SSL证书使用）
+*   和更多。
 
 ___
 
 Hopefully, this new addition to the framework will come in handy during development and help make using curl much more pleasant.
 
 我们希望，这个新增加的功能在对框架开发过程中派上用场，使curl更简洁。
-

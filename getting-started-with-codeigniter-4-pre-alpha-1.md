@@ -8,8 +8,8 @@ Now that the ribbon has been taken off of the first semi-release of CodeIgniter 
 
 There are two different ways you can download it currently, but they're both basically the same thing.
 
-1. From the terminal type: `git clone git@github.com:bcit-ci/CodeIgniter4.git` which will pull down the latest version of the `develop` branch into a new directory called `CodeIgniter4`.
-2. From [GitHub](https://github.com/bcit-ci/CodeIgniter4) do a straight download by clicking `Clone or Download` and then selecting `Download Zip`. Unzip into a new folder when you're done.
+1.  From the terminal type: `git clone git@github.com:bcit-ci/CodeIgniter4.git` which will pull down the latest version of the `develop` branch into a new directory called `CodeIgniter4`.
+2.  From [GitHub](https://github.com/bcit-ci/CodeIgniter4) do a straight download by clicking `Clone or Download` and then selecting `Download Zip`. Unzip into a new folder when you're done.
 
 ## Look Around
 
@@ -30,14 +30,14 @@ The **user_guide_src** folder contains all of the current documentation for the 
 
 The following pages are good reads to get started with:
 
-*    [Application Structure](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/concepts/structure.rst)
-*    [Autoloading Files](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/concepts/autoloader.rst)
-*    [Services](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/concepts/services.rst)
-*    [Global Functions and Constants](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/common_functions.rst)
-*    [URI Routing](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/routing.rst)
-*    [Controllers](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/controllers.rst)
-*    [Models](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/database/model.rst)
-*    [Views](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/views.rst)
+*   [Application Structure](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/concepts/structure.rst)
+*   [Autoloading Files](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/concepts/autoloader.rst)
+*   [Services](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/concepts/services.rst)
+*   [Global Functions and Constants](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/common_functions.rst)
+*   [URI Routing](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/routing.rst)
+*   [Controllers](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/controllers.rst)
+*   [Models](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/database/model.rst)
+*   [Views](https://github.com/bcit-ci/CodeIgniter4/blob/develop/user_guide_src/source/general/views.rst)
 
 ## Start Playing
 
@@ -59,9 +59,9 @@ A more permenant solution is to have another web server running locally, like Ap
 
 Here are some helper guides for those of you using popular AMP stacks locally:
 
-*    [MAMP](http://foundationphp.com/tutorials/vhosts_mamp.php)
-*    [XAMPP](http://foundationphp.com/tutorials/apache_vhosts.php)
-*    [WAMP](http://www.techrepublic.com/blog/smb-technologist/create-virtual-hosts-in-a-wamp-server/)
+*   [MAMP](http://foundationphp.com/tutorials/vhosts_mamp.php)
+*   [XAMPP](http://foundationphp.com/tutorials/apache_vhosts.php)
+*   [WAMP](http://www.techrepublic.com/blog/smb-technologist/create-virtual-hosts-in-a-wamp-server/)
 
 Note that most of these are essentially the same thing, since you're editing raw Apache config files.
 
