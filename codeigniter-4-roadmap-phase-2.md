@@ -4,15 +4,15 @@
 
 CodeIgniter4 is a rewrite of the framework, using PHP7, with substantial changes and improvements. It is not intended to be backwards-compatible with CodeIgniter3, though we are shooting to ease the pain of transition, where possible.
 
-CodeIgniter4是一个使用PHP7重写的框架，具有实质性的变化和改进。它并不打算向后兼容CodeIgniter3，虽然我们正在排除过渡的痛苦，在可能的情况下。
+CodeIgniter4 是一个使用 PHP7 重写的框架，具有实质性的变化和改进。它并不打算向后兼容 CodeIgniter3，虽然我们正在排除过渡的痛苦，在可能的情况下。
 
 CodeIgniter 4 has reached milestone 1, following our [development roadmap](codeigniter-4-proposed-roadmap.md)! Phase 1 has been completed, and we are embarking on Phase 2.
 
-CodeIgniter 4已经到了milestone 1，跟随我们的[开发路线图](codeigniter-4-proposed-roadmap.md)！第一阶段已经完成，我们正在着手第二阶段。
+CodeIgniter 4 已经到了 milestone 1，跟随我们的[开发路线图](codeigniter-4-proposed-roadmap.md)！第一阶段已经完成，我们正在着手第二阶段。
 
 The first phase has seen the core re-implemented, with a number of essential components:
 
-第一阶段可见核心代码重新实现了，同时也有许多基本的部件：
+第一阶段可以看见核心代码重新实现了，同时也有许多基本的部件：
 
 *  Autoloader (classmap, PSR4 autoloader, and CI magic)
 *  Logging (PSR7 compliant)
@@ -28,14 +28,14 @@ The first phase has seen the core re-implemented, with a number of essential com
 *  Views
 *  Debugging and Profiling Tools.
 
-*  自动加载器(classmap, PSR4 自动加载和 CI 魔术)
-*  日志（符合PSR7）
+*  自动加载器(classmap，PSR4 自动加载和 CI 魔术)
+*  日志（符合 PSR7）
 *  异常处理
 *  HTTP 请求/应答层（或输入/输出）
 *  路由（约定和配置）
-*  控制器（CI风格）
-*  模型（CI风格，活动记录）
-*  数据库层（适用于MySQLi和Postgre）
+*  控制器（CI 风格）
+*  模型（CI 风格，活动记录）
+*  数据库层（适用于 MySQLi 和 Postgre）
 *  配置（灵活，环境）
 *  安全（转义，CSRF）
 *  会话 (适用于文件和数据库)
@@ -72,11 +72,11 @@ We are now embarking on phase two:
 
 The [CodeIgniter4 repository](https://github.com/bcit-ci/CodeIgniter4) has been opened up for community contributions towards milestone 2. We are looking to implement the phase 2 features in a controlled & managed fashion.
 
-[CodeIgniter4 repository](https://github.com/bcit-ci/CodeIgniter4) 已经向社区贡献者开放了milestone 2。我们正在寻求实现第二阶段的特性在一个受控和管理的方式下。
+[CodeIgniter4 repository](https://github.com/bcit-ci/CodeIgniter4) 已经向社区贡献者开放了 milestone 2。我们正在寻求实现第二阶段的特性在一个受控和管理的方式下。
 
 We would particularly appreciate additions to the unit testing, with a target code coverage of 80+%.
 
-我们特别欣赏添加的单元测试, 目标代码覆盖率为80+%。
+我们特别欣赏添加的单元测试，目标代码覆盖率为80+%。
 
 We are *not* looking for someone's favorite library or package.
 
@@ -92,15 +92,15 @@ We are looking for contributions that work, with unit testing, user guide change
 
 We are using issues, flagged as enhancements or features, to manage the ongoing development of the framework.
 
-我们使用issues，标记作为增强或特性，去管理正在开发的框架。
+我们使用 issues，标记作为增强或特性，去管理正在开发的框架。
 
 We are using issues flagged as bugs for, well, bug tracking.
 
-我们使用issues，标记作为bug，也是bug定位。
+我们使用 issues，标记当做 bug，也是 bug 跟踪。
 
 If you have a feature to propose or discuss, do so on the [CI4 feature request subforum](https://forum.codeigniter.com/forum-29.html). not as github issues.
 
-如果您有一个特性建议或讨论，请在[CI4 feature request subforum](https://forum.codeigniter.com/forum-29.html)发表。而不是github issues。
+如果您有一个特性建议或讨论，请在[CI4 feature request subforum](https://forum.codeigniter.com/forum-29.html)发表。而不是 github issues。
 
 The [CI4 Support](https://forum.codeigniter.com/forum-30.html) subforum has been created to help community members with setup,environment and process issues.
 
@@ -108,12 +108,12 @@ The [CI4 Support](https://forum.codeigniter.com/forum-30.html) subforum has been
  
 The [CI4 Discussion](https://forum.codeigniter.com/forum-31.html) has been setup for any other discussions.
 
-设立了[CI4 Discussion](https://forum.codeigniter.com/forum-31.html)供大家讨论其他问题。
+同时也设立了[CI4 Discussion](https://forum.codeigniter.com/forum-31.html)供大家讨论其他问题。
 
 We will use this [CI4 Development](https://forum.codeigniter.com/forum-27.html) subforum to report developments to the community.
 
-我们会使用[CI4 Development](https://forum.codeigniter.com/forum-27.html)子论坛去报道开发
+我们会使用[CI4 Development](https://forum.codeigniter.com/forum-27.html)子论坛向社区报道开发进度。
 
 We are trying to keep the CodeIgniter 4 User Guide in synch with developments. We are shooting for either a nightly build that you have access to, or perhaps a build which is part of a successful travis-ci run. For now, we have setup the new [User Guide](https://bcit-ci.github.io/CodeIgniter4) on github, and it will be updated "frequently".
 
-我们正在努力保持CodeIgniter 4用户手册与开发同步。我们正在拍摄一个你可以访问的夜间建设，或者是一个成功运行travis-ci的的一部分。现在，我们在github上设置了新的[User Guide](https://bcit-ci.github.io/CodeIgniter4)在github上，它将会被“频繁”更新。
+我们正在努力保持 CodeIgniter 4 用户手册与开发同步。我们正在努力进行一个你可以访问的每夜版本，或者是一个成功运行travis-ci的版本的一部分。现在，我们在github上设置了新的[User Guide](https://bcit-ci.github.io/CodeIgniter4)在github上，它将会被“频繁”更新。
