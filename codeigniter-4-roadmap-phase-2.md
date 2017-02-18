@@ -36,8 +36,8 @@ The first phase has seen the core re-implemented, with a number of essential com
 *  控制器（CI 风格）
 *  模型（CI 风格，活动记录）
 *  数据库层（适用于 MySQLi 和 Postgre）
-*  配置（灵活，环境）
-*  安全（转义，CSRF）
+*  配置（灵活性，环境）
+*  安全（转义器，CSRF）
 *  会话 (适用于文件和数据库)
 *  视图
 *  调试和分析工具
@@ -88,7 +88,7 @@ We are *not* looking for any shopping cart or authentication packages.
 
 We are looking for contributions that work, with unit testing, user guide changes, changelog entries, and which conform to our style guide. Please read the [Contributing to CodeIgniter](https://bcit-ci.github.io/CodeIgniter4/contributing) section before diving in!
 
-我们寻求与单元测试, 用户手册的变更, 符合我们的风格变更日志的条目的建设。在行动前请阅读[Contributing to CodeIgniter](https://bcit-ci.github.io/CodeIgniter4/contributing) 部分。
+我们寻求与单元测试, 用户手册的变更, 更新日志，以及符合我们风格的指南的建设。在行动前请阅读[Contributing to CodeIgniter](https://bcit-ci.github.io/CodeIgniter4/contributing) 部分。
 
 We are using issues, flagged as enhancements or features, to manage the ongoing development of the framework.
 
@@ -116,4 +116,4 @@ We will use this [CI4 Development](https://forum.codeigniter.com/forum-27.html) 
 
 We are trying to keep the CodeIgniter 4 User Guide in synch with developments. We are shooting for either a nightly build that you have access to, or perhaps a build which is part of a successful travis-ci run. For now, we have setup the new [User Guide](https://bcit-ci.github.io/CodeIgniter4) on github, and it will be updated "frequently".
 
-我们正在努力保持 CodeIgniter 4 用户手册与开发同步。我们正在努力进行一个你可以访问的每夜版本，或者是一个成功运行travis-ci的版本的一部分。现在，我们在github上设置了新的[User Guide](https://bcit-ci.github.io/CodeIgniter4)在github上，它将会被“频繁”更新。
+我们正在努力保持 CodeIgniter 4 用户手册与开发同步。我们正在努力进行一个你可以访问的每夜版本，或者是一个成功运行travis-ci的版本的一部分。现在，我们在github上设置了新的[User Guide](https://bcit-ci.github.io/CodeIgniter4)，它将会被“频繁”更新。
