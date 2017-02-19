@@ -4,7 +4,7 @@
 
 CodeIgniter4 is a rewrite of the framework, using PHP7, with substantial changes and improvements. It is not intended to be backwards-compatible with CodeIgniter3, though we are shooting to ease the pain of transition, where possible.
 
-CodeIgniter4 是一个使用 PHP7 重写的框架，具有实质性的变化和改进。它并不打算向后兼容 CodeIgniter3，虽然我们正在排除过渡的痛苦，在可能的情况下。
+CodeIgniter4 是一个使用 PHP7 重写的，包含重大更改和改进的框架。虽然并不打算向后兼容 CodeIgniter3，但我们正在尽可能的排除过渡期的痛苦。
 
 CodeIgniter 4 has reached milestone 1, following our [development roadmap](codeigniter-4-proposed-roadmap.md)! Phase 1 has been completed, and we are embarking on Phase 2.
 
@@ -105,7 +105,7 @@ If you have a feature to propose or discuss, do so on the [CI4 feature request s
 The [CI4 Support](https://forum.codeigniter.com/forum-30.html) subforum has been created to help community members with setup,environment and process issues.
 
  [CI4 Support](https://forum.codeigniter.com/forum-30.html)子论坛已经被创建，用于帮助社区成员解决安装，环境和处理问题。
- 
+
 The [CI4 Discussion](https://forum.codeigniter.com/forum-31.html) has been setup for any other discussions.
 
 同时也设立了[CI4 Discussion](https://forum.codeigniter.com/forum-31.html)供大家讨论其他问题。
