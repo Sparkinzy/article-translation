@@ -8,7 +8,7 @@ CodeIgniter4 是一个使用 PHP7 重写的，包含重大更改和改进的框�
 
 CodeIgniter 4 has reached milestone 1, following our [development roadmap](codeigniter-4-proposed-roadmap.md)! Phase 1 has been completed, and we are embarking on Phase 2.
 
-CodeIgniter 4 已经到了 milestone 1，跟随我们的[开发路线图](codeigniter-4-proposed-roadmap.md)！第一阶段已经完成，我们正在着手第二阶段。
+跟随我们的[开发路线图](codeigniter-4-proposed-roadmap.md)，CodeIgniter 4 已经发布了 Milestone 1 版！第一阶段已经完成，我们正在着手第二阶段。
 
 The first phase has seen the core re-implemented, with a number of essential components:
 
