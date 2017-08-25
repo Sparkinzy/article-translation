@@ -139,7 +139,7 @@ Alright, you've seen how to define the services, and we've talked about why DI i
 > 在你的应用中使用依赖注入不是必须的，但是十分推荐的做法。框架本身使用了这些文件，同时他提供了简单的方法去修改核心的代码，但一些其他方面的使用就要靠你自己了。
 
 With that disclaimer out of the way, let's look at our `UserModel` again. Assume that we're in the `Users` controller and you need to pull all active users. Earlier, we showed the UserModel taking a Database object in it's constructor. Ignoring the exact class names for now, getting a new instance of the model would be done something like this:
-通过这种声明方式，让我们再看看看UserModel。假如我们在Users这个控制器中，你需要抓取所有的活跃用户。之前，我们提到过UserModel的构造器中注入一个数据库对象。忽略类名，现在我们获取一个新model势力的做法应该是这样：
+通过这种声明方式，让我们再看看看UserModel。假如我们在Users这个控制器中，你需要抓取所有的活跃用户。之前，我们提到过UserModel的构造器中注入一个数据库对象。忽略类名，现在我们获取一个新model实例的做法应该是这样：
 
 
 ```php
